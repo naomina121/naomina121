@@ -11,9 +11,10 @@
 
 -  [健康発信サイト2　 React (Next.js)](https://mint-note.net)
 
--  [ポートフォリオサイト React (Next.js) Notion](https://naomina.com)
+-  [ポートフォリオサイト 学習記録 React (Next.js) Notion](https://naomina.com)
 
 <p>まだまだ未熟ですが少しずつ成長していければと思います！</p>
+
 
 <h2>Links（リンク集）</h2>
 <p align="left">
