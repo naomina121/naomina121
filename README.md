@@ -7,9 +7,9 @@
 学ぶことや知識の共有などが楽しくて、プログラミングの世界は奥深く、自分の中では未熟ながら少しずつ楽しいアプリ開発ができたらと思えます。<br/>
 今まで作ったアプリとしてはこんな感じです。</p>
 
--  [健康発信サイト　React(gatsby.js) PWA](https://naomina-mental-health.com/)
+-  [サイト　React(gatsby.js) PWA](https://naomina-mental-health.com/)
 
--  [健康発信サイト2　 React (Next.js)](https://mint-note.net)
+-  [サイト2　 React (Next.js)](https://mint-note.net)
 
 -  [ポートフォリオサイト 学習記録 React (Next.js) Notion](https://naomina.com)
 
