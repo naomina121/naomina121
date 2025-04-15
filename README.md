@@ -12,6 +12,3 @@
 -  [プログラミングの開発ブログサイト 学習記録 React (Next.js) Notion](https://naomina.com)
 
 -  [VScodeToNotion](https://marketplace.visualstudio.com/items?itemName=naomina121.vscodetonotion)
-
-
-<p>が、しかし、病気が悪化したため、ブログサイト以外の軽い更新以外は、今現在、開発は休んでいます。(2024/11~未定)</p>
