@@ -9,6 +9,6 @@
 
 -  [メインブログ](https://naomina121.com)
 
--  [プログラミングの開発ブログサイト 学習記録 React (Next.js) Notion](https://naomina.com)
+-  [プログラミングの開発ブログサイト 学習記録 React (Next.js) Notion](https://dev.naomina121.com)
 
 -  [VScodeToNotion](https://marketplace.visualstudio.com/items?itemName=naomina121.vscodetonotion)
